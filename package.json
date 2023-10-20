@@ -1,0 +1,28 @@
+{
+  "name": "node-class",
+  "version": "1.0.0",
+  "description": "Basic concepts of node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricgomez99/Node-practice.git"
+  },
+  "keywords": [
+    "node",
+    "course",
+    "concepts",
+    "practice"
+  ],
+  "author": "Andres Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricgomez99/Node-practice/issues"
+  },
+  "homepage": "https://github.com/ricgomez99/Node-practice#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
