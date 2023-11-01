@@ -4,7 +4,8 @@
   "description": "Basic concepts of node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "dev:1": "node --watch ./class-2/express.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,10 @@
   },
   "homepage": "https://github.com/ricgomez99/Node-practice#readme",
   "dependencies": {
+    "express": "4.18.2",
     "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
